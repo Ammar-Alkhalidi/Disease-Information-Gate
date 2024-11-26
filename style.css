@@ -1,0 +1,152 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Space+Grotesk:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Indie+Flower&family=Sixtyfour+Convergence&family=Space+Grotesk:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Indie+Flower&family=Secular+One&family=Sixtyfour+Convergence&family=Space+Grotesk:wght@300..700&display=swap');
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("https://www.shutterstock.com/shutterstock/photos/1772659382/display_1500/stock-vector-healthcare-futuristic-scanning-in-hud-style-design-human-body-organs-and-brain-scan-with-pictures-1772659382.jpg"); 
+  background-color: #333;
+  background-size: cover;
+    background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+h1 {
+  font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  text-align: center;
+  padding: 20px;
+  color: #d80303;
+  background-color: rgba(3, 3, 3, 0.829);
+}
+
+/* Login Form */
+.login-container {
+  background: rgba(231, 242, 12, 0.851);
+  width: 300px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+
+}
+
+.login-container h2 {
+  text-align: center;
+  
+}
+
+.login-container input {
+    border-radius: 5px;
+  width: 85%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.login-container button {
+    text-align: center;
+  width: 50%;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#loginStatus {
+  text-align: center;
+  color: red;
+}
+
+/* Search Bar */
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+#searchInput {
+  background-color: #f7e56e;
+  width: 200px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+#searchButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+#searchButton:hover {
+  background-color:  #a3f76e;
+}
+
+/* Disease Information */
+#diseaseContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  font-family: "Secular One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #f50909;
+  background: rgba(14, 13, 13, 0.917);
+  width: 500px;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+
+.card h2 {
+  margin-top: 0;
+}
+
+.card p {
+  line-height: 1.6;
+}
+
+/* Feedback Form */
+.feedback-container {
+  background: rgba(185, 219, 13, 0.8);
+  width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.feedback-container h2 {
+  font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  text-align: center;
+}
+
+.feedback-container textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+.feedback-container button {
+  width: 100%;
+  padding: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.feedback-container button:hover {
+  background-color:  #47af07;
+} 
+
+#feedbackStatus {
+  text-align: center;
+  color: green;
+}

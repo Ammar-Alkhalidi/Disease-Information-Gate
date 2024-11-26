@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Influenza",
+    "description": "Influenza, commonly known as the flu, is a contagious respiratory illness caused by influenza viruses.",
+    "treatment": "Rest, hydration, and antiviral medications in severe cases.",
+    "medication_course": "Oseltamivir (Tamiflu) 75 mg orally twice daily for 5 days."
+  },
+  {
+    "name": "Diabetes Mellitus Type 2",
+    "description": "A chronic condition that affects the way the body processes blood sugar (glucose).",
+    "treatment": "Lifestyle changes, oral medications, and sometimes insulin therapy.",
+    "medication_course": "Metformin 500 mg orally twice daily; dosage may be adjusted based on blood sugar levels."
+  },
+  {
+    "name": "Hypertension",
+    "description": "A condition in which the force of the blood against the artery walls is consistently too high.",
+    "treatment": "Lifestyle modifications and antihypertensive medications.",
+    "medication_course": "Lisinopril 10 mg orally once daily; dosage may be adjusted based on blood pressure readings."
+  },
+  {
+    "name": "Asthma",
+    "description": "A respiratory condition marked by spasms in the bronchi of the lungs, causing difficulty in breathing.",
+    "treatment": "Inhaled corticosteroids and bronchodilators to reduce inflammation and open airways.",
+    "medication_course": "Albuterol inhaler as needed for symptom relief; inhaled corticosteroids daily."
+  },
+  {
+    "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "description": "A group of progressive lung diseases that obstruct airflow and make it difficult to breathe.",
+    "treatment": "Bronchodilators, inhaled steroids, pulmonary rehabilitation, and oxygen therapy.",
+    "medication_course": "Tiotropium inhaler once daily; supplemental oxygen as prescribed."
+  },
+  {
+    "name": "Pneumonia",
+    "description": "An infection that inflames the air sacs in one or both lungs, which may fill with fluid.",
+    "treatment": "Antibiotics for bacterial pneumonia, rest, and fluids to prevent dehydration.",
+    "medication_course": "Amoxicillin 500 mg orally three times daily for 7–10 days."
+  },
+  {
+    "name": "Tuberculosis",
+    "description": "A potentially serious infectious bacterial disease that mainly affects the lungs.",
+    "treatment": "Long-term antibiotic therapy using a combination of medications.",
+    "medication_course": "Isoniazid, Rifampin, Ethambutol, and Pyrazinamide for 6–9 months as per DOTS protocol."
+  },
+  {
+    "name": "HIV/AIDS",
+    "description": "A chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV).",
+    "treatment": "Antiretroviral therapy (ART) to control the virus and prevent progression.",
+    "medication_course": "Combination ART as prescribed, usually taken daily indefinitely."
+  },
+  {
+    "name": "Malaria",
+    "description": "A disease caused by a plasmodium parasite, transmitted by the bite of infected mosquitoes.",
+    "treatment": "Antimalarial medications to eliminate the parasite from the bloodstream.",
+    "medication_course": "Artemisinin-based combination therapies (ACTs) for 3 days."
+  },
+  {
+    "name": "Dengue Fever",
+    "description": "A mosquito-borne viral infection causing severe flu-like illness.",
+    "treatment": "Supportive care including hydration and pain relief; no specific antiviral treatment.",
+    "medication_course": "Acetaminophen for fever and pain; avoid NSAIDs due to bleeding risk."
+  },
+  {
+    "name": "Hepatitis B",
+    "description": "A serious liver infection caused by the hepatitis B virus (HBV).",
+    "treatment": "Antiviral medications to reduce liver inflammation and prevent complications.",
+    "medication_course": "Entecavir 0.5 mg orally once daily; treatment duration varies."
+  },
+  {
+    "name": "Hepatitis C",
+    "description": "A liver disease caused by the hepatitis C virus (HCV), leading to inflammation.",
+    "treatment": "Direct-acting antiviral medications to clear the virus from the body.",
+    "medication_course": "Sofosbuvir and Ledipasvir combination therapy for 8–12 weeks."
+  },
+  {
+    "name": "COVID-19",
+    "description": "An infectious disease caused by the SARS-CoV-2 coronavirus.",
+    "treatment": "Supportive care; antiviral medications and oxygen therapy in severe cases.",
+    "medication_course": "Remdesivir 200 mg IV on day 1, then 100 mg IV daily for 5–10 days."
+  },
+  {
+    "name": "Alzheimer's Disease",
+    "description": "A progressive neurodegenerative disorder that causes memory loss and cognitive decline.",
+    "treatment": "Medications to manage symptoms; no cure exists currently.",
+    "medication_course": "Donepezil 5 mg orally once daily at bedtime."
+  },
+  {
+    "name": "Parkinson's Disease",
+    "description": "A degenerative disorder of the central nervous system affecting movement and causing tremors.",
+    "treatment": "Medications to manage symptoms, such as increasing dopamine levels.",
+    "medication_course": "Levodopa-Carbidopa 100/25 mg orally three times daily."
+  },
+  {
+    "name": "Osteoarthritis",
+    "description": "A degenerative joint disease characterized by the breakdown of joint cartilage.",
+    "treatment": "Pain management, physical therapy, and sometimes joint replacement surgery.",
+    "medication_course": "Ibuprofen 400 mg orally every 6 hours as needed for pain."
+  },
+  {
+    "name": "Rheumatoid Arthritis",
+    "description": "An autoimmune disorder causing chronic inflammation of joints.",
+    "treatment": "Disease-modifying antirheumatic drugs (DMARDs) and biologics.",
+    "medication_course": "Methotrexate 7.5 mg orally once weekly."
+  },
+  {
+    "name": "Depression",
+    "description": "A mood disorder causing persistent feelings of sadness and loss of interest.",
+    "treatment": "Antidepressant medications and psychotherapy.",
+    "medication_course": "Sertraline 50 mg orally once daily."
+  },
+  {
+    "name": "Anxiety Disorders",
+    "description": "Mental health disorders characterized by significant anxiety and fear.",
+    "treatment": "Medications, psychotherapy, and stress management techniques.",
+    "medication_course": "Escitalopram 10 mg orally once daily."
+  },
+  {
+    "name": "Schizophrenia",
+    "description": "A chronic brain disorder that affects a person's ability to think, feel, and behave clearly.",
+    "treatment": "Antipsychotic medications and psychosocial therapy.",
+    "medication_course": "Risperidone 2 mg orally once daily."
+  },
+  {
+    "name": "Coronary Artery Disease",
+    "description": "A disease caused by the buildup of plaque resulting in the arteries becoming narrowed or blocked.",
+    "treatment": "Lifestyle changes, medications, and possibly surgical procedures.",
+    "medication_course": "Aspirin 81 mg orally once daily; statins as prescribed."
+  },
+  {
+    "name": "Stroke",
+    "description": "A medical emergency where the blood supply to part of the brain is interrupted or reduced.",
+    "treatment": "Immediate medical attention, clot-busting drugs, and rehabilitation.",
+    "medication_course": "Alteplase (tPA) administered intravenously within 3 hours of symptom onset."
+  },
+  {
+    "name": "Epilepsy",
+    "description": "A neurological disorder marked by sudden recurrent episodes of sensory disturbance.",
+    "treatment": "Antiepileptic medications to control seizures.",
+    "medication_course": "Valproic Acid 500 mg orally twice daily."
+  },
+  {
+    "name": "Migraine",
+    "description": "A neurological condition characterized by intense, debilitating headaches.",
+    "treatment": "Pain relievers, anti-nausea medications, and preventive medicines.",
+    "medication_course": "Sumatriptan 50 mg orally at onset; may repeat after 2 hours if needed."
+  },
+  {
+    "name": "Allergic Rhinitis",
+    "description": "An allergic reaction that causes sneezing, congestion, and runny nose.",
+    "treatment": "Antihistamines, decongestants, and nasal corticosteroids.",
+    "medication_course": "Loratadine 10 mg orally once daily."
+  },
+  {
+    "name": "Eczema (Atopic Dermatitis)",
+    "description": "A condition causing the skin to become inflamed or irritated.",
+    "treatment": "Moisturizers, topical steroids, and avoiding irritants.",
+    "medication_course": "Hydrocortisone cream applied to affected areas twice daily."
+  }
+]
