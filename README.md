@@ -1,7 +1,7 @@
 # Disease-Information-Gate
 
 A web application that provides information about various diseases, including their descriptions, treatments, and medication courses. Users can search for diseases, log in with a username and password, and submit feedback or questions.
-
+![Example Image](https://github.com/Ammar-Alkhalidi/Disease-Information-Gate/blob/main/Screenshot%20from%202024-11-28%2022-11-38.png)
 # Features
 Search for disease information, including descriptions, treatments, and medication courses.
 Dynamic disease cards displaying information and images.
