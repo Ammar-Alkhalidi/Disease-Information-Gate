@@ -69,6 +69,7 @@ c.Click the "Search" button to display disease information, including:
 2. User Login
 - Use a valid username and password to log in.
 - Credentials are stored in users.json.
+  ![Example Image](https://github.com/Ammar-Alkhalidi/Disease-Information-Gate/blob/main/Screenshot%20from%202024-11-28%2022-05-09.png)
 # Example:
 - json
 - Copy code
